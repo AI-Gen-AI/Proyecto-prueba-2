@@ -1,11 +1,12 @@
 {
-	"folders": [
-		{
-			"path": ".."
-		},
-		{
-			"path": "../../taskmanager"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "..",
+      "name": "Parent Project"
+    },
+    {
+      "path": "../../taskmanager"
+    }
+  ],
+  "settings": {}
 }
